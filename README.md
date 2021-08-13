@@ -6,3 +6,7 @@ A simple CLI tool to check WebDAV vulnerability
 
 > davtest http://domain.com {output file}
 
+# demo video
+
+
+
