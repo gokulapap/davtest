@@ -2,7 +2,7 @@
 A simple CLI tool to check WebDAV vulnerability
 
 # Usage
-> pip3 install requests
+> sudo bash start.sh
 
 > davtest http://domain.com {output file}
 
